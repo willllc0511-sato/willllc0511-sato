@@ -14,12 +14,12 @@ Claude Code などの生成 AI のコーディングツールを使い、設計�
 | アプリ | 中身 | 技術 |
 |---|---|---|
 | [騒音ログ](https://github.com/willllc0511-sato/NoiseLog) | マンションの騒音トラブルの証拠を記録する | Swift |
-| [見守りタップ](https://github.com/willllc0511-sato/MimamoriTap) | 離れて暮らす家族の見守り | Swift |
+| [見守りタップ](https://github.com/willllc0511-sato/MimamoriTap) | 家族の見守り。押すと家族の LINE に知らせが届く | Swift / Supabase / LINE |
 | [血圧はかった？](https://github.com/willllc0511-sato/BloodPressureApp) | 血圧の記録 | Swift |
 
 ## よく使う技術
 
-Python（FastAPI・Django）/ Swift・SwiftUI / JavaScript / PHP・WordPress / PostgreSQL・MySQL・SQLite / Docker / nginx / Linux サーバーの構築と運用 / App Store への公開
+Python（FastAPI）/ Swift・SwiftUI / JavaScript / PHP・WordPress / PostgreSQL・MySQL・SQLite・Supabase / Docker / nginx / Linux サーバーの構築と運用 / App Store への公開
 
 ## 進め方
 
